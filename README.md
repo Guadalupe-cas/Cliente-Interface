@@ -1,5 +1,10 @@
 # ***Interfaz Cliente**
-![design-thinking-como-cubrir-las-necesidades-de-un-usuario-a-traves-de-una-estrategia-de-contenido-portada-1](C:\Users\Guadalupe Bell\OneDrive\Imágenes\design-thinking-como-cubrir-las-necesidades-de-un-usuario-a-traves-de-una-estrategia-de-contenido-portada-1.png)
+
+
+
+
+
+
 
 **Descripcion:**
 
